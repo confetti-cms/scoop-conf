@@ -1,26 +1,26 @@
 {
-    "version": "1.35.0",
+    "version": "1.36.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/confetti-cms/conf/releases/download/1.35.0/conf_Windows_i386.zip",
+            "url": "https://github.com/confetti-cms/conf/releases/download/1.36.0/conf_Windows_i386.zip",
             "bin": [
                 "conf.exe"
             ],
-            "hash": "efa36f126601f5b5744985449d43569f91fa4102ce5bdf474f43a7181022c3fd"
+            "hash": "eee49ec1ff8dfc5c57c782cbd63fb1c9b05d73adf65b3861bfa13854fdab80e2"
         },
         "64bit": {
-            "url": "https://github.com/confetti-cms/conf/releases/download/1.35.0/conf_Windows_x86_64.zip",
+            "url": "https://github.com/confetti-cms/conf/releases/download/1.36.0/conf_Windows_x86_64.zip",
             "bin": [
                 "conf.exe"
             ],
-            "hash": "6c5120ae7d940d01a4a8f52db70ce3a72464880826702507527b265a4266bb1b"
+            "hash": "154998524b62011e483d1fa47888f9d3d4069928dd3b6a0ad7034b5bc80be066"
         },
         "arm64": {
-            "url": "https://github.com/confetti-cms/conf/releases/download/1.35.0/conf_Windows_arm64.zip",
+            "url": "https://github.com/confetti-cms/conf/releases/download/1.36.0/conf_Windows_arm64.zip",
             "bin": [
                 "conf.exe"
             ],
-            "hash": "02d5979effc954e0abbd4e4d73b969052e0b7d3b790a4000178d9f23afee71eb"
+            "hash": "f8907f8c581e45ca4c33ce6e119f59f8bd745db1ac050e7cd98607456c3422a7"
         }
     },
     "homepage": "https://confetti-cms.com"
